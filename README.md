@@ -13,7 +13,7 @@
 <details><summary>Примеры баг-репортов заведенных в Яндекс Трекер</summary>
 
    - Ошибка валидации при оформлении заказа: [баг-репорт](https://drive.google.com/file/d/19WMppc-OBPlCoaPgSV0Bw4RA5_7SR_lb/view?usp=sharing) и [скриншот](https://drive.google.com/file/d/1mp-f8sYjHdoWJZPzydbwKlJbhZPvle_q/view?usp=sharing)
-   - Отменённый заказ не удаляется из системы: [баг-репорт](https://drive.google.com/file/d/1UeISz9TDYhwI_d02mcrDQSO4_8LQ1Xq6/view?usp=sharing) и [скринкаст](https://drive.google.com/file/d/1ExDxhZz3bBDtZUmHsMROWucXHHxtb2Vz/view?usp=sharing)
+   - Отменённый заказ не удаляется из системы: [баг-репорт](https://drive.google.com/file/d/1UeISz9TDYhwI_d02mcrDQSO4_8LQ1Xq6/view?usp=sharing) и [скринкаст](https://youtu.be/VcjI7UCnevg)
    - Неправильно отображаются данные о заказе на фронте: [баг-репорт](https://drive.google.com/file/d/1WJUnDM4jPz_nBmFWNrfUrxK4pbBPg7Uu/view?usp=sharing) и [скриншот](https://drive.google.com/file/d/13ajrptIxFGraBSzVv1WPGRjxTPoKWTO2/view?usp=sharing)
    - Не отображается логотип в уведомлении от мобильного приложения: [баг-репорт](https://drive.google.com/file/d/1e0h6GgyVJjcdbNa0ne8bq-0Swi54uuP9/view?usp=sharing) и [скриншот](https://drive.google.com/file/d/1gf9ZG2nRwaJYqJKvQy9BkBpK4j2aCEH8/view?usp=sharing)
    
