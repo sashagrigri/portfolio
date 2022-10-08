@@ -1,5 +1,5 @@
 # Александра Григорьева - Junior QA Engineer
-[ссылка на моё резюме](https://drive.google.com/file/d/1Pobmt4o5eUbNay1WmSwAWno42Vk_VCLt/view?usp=sharing)             
+[ссылка на моё резюме](https://drive.google.com/file/d/1UupOS8V1qZiRM2ebP49stv6NtAnBI6TA/view?usp=sharing)             
 [ссылка на мой диплом Яндекс Практикума](https://github.com/sashagrigri/portfolio/blob/main/YP-diploma.pdf)
 
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/sashagrirgi)
